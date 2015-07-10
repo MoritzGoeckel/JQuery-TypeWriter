@@ -4,7 +4,7 @@ This is a javascript function based on JQuery to implement a basic typewriter an
 ##Tutorial:
 - Include JQuery
 - Include the typewriter.js
-- Execute the typeOut(<selector>, <delay>) function
+- Execute the typeOut(selector, delay) function
 
 ##Usage:
 ```html
