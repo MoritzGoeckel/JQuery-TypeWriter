@@ -7,7 +7,7 @@ This is a javascript function based on JQuery to implement a basic typewriter an
 - Execute the typeOut(<selector>, <delay>) function
 
 ##Usage:
-```
+```html
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="typewriter.js"></script>
     
@@ -18,6 +18,6 @@ This is a javascript function based on JQuery to implement a basic typewriter an
 </script>
 
 <div id="text">
-Some <b>HTML</b> <i>text</i> here...
+    Some <b>HTML</b> <i>text</i> here...
 </div>
 ```
