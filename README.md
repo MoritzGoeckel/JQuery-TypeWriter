@@ -2,7 +2,7 @@
 This is a javascript function based on JQuery to implement a basic typewriter animation for html.
 
 ##Demo:
-![TypeWriter js example visualization]()
+![TypeWriter js example visualization](https://raw.githubusercontent.com/MoritzGoeckel/JS-JQuery-TypeWriter/master/typewriterJs_example_visualization.gif)
 
 ##Tutorial:
 - Include JQuery
